@@ -1,54 +1,153 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Running Plan 2026//EN
+PRODID:-//ChatGPT//Running Plan//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Running Plan 2026 - 5K Focus
+X-WR-CALNAME:Running Plan Oct-Nov 2026
 X-WR-TIMEZONE:Europe/Zagreb
 
 BEGIN:VEVENT
-UID:run-20260922-recovery-5k@running-plan
-DTSTAMP:20260921T100000Z
-DTSTART;TZID=Europe/Zagreb:20260922T180000
-DTEND;TZID=Europe/Zagreb:20260922T184500
-SUMMARY:Run - HM Recovery
-DESCRIPTION:4-5 km very easy @ 6:20-6:40/km. Only run if legs feel reasonably recovered from the HM. If sore or heavy, rest instead.
+UID:run-20261006-easy@chatgpt
+DTSTAMP:20261002T070000Z
+DTSTART;TZID=Europe/Zagreb:20261006T180000
+DTEND;TZID=Europe/Zagreb:20261006T184500
+SUMMARY:Easy Run
+DESCRIPTION:5-6 km @ 5:55-6:20/km. Very relaxed.
 END:VEVENT
 
 BEGIN:VEVENT
-UID:run-20260924-800-5k@running-plan
-DTSTAMP:20260921T100000Z
-DTSTART;TZID=Europe/Zagreb:20260924T180000
-DTEND;TZID=Europe/Zagreb:20260924T190000
-SUMMARY:Run - 4x800m 5K Sharpening
-DESCRIPTION:If recovered: 2 km warm-up + 4x800m @ 4:20-4:25/km with 2 min easy jog recovery + 1-1.5 km cool-down. If still fatigued from the HM, replace with 30-40 min easy + 4 strides.
+UID:run-20261008-threshold@chatgpt
+DTSTAMP:20261002T070000Z
+DTSTART;TZID=Europe/Zagreb:20261008T180000
+DTEND;TZID=Europe/Zagreb:20261008T190000
+SUMMARY:Threshold - 3x1.5 km
+DESCRIPTION:2 km easy; 3x1.5 km @ 4:40-4:45/km; 2 min easy jog between; 1-2 km cooldown. ~8-9 km total.
 END:VEVENT
 
 BEGIN:VEVENT
-UID:run-20260926-specific-5k@running-plan
-DTSTAMP:20260921T100000Z
-DTSTART;TZID=Europe/Zagreb:20260926T090000
-DTEND;TZID=Europe/Zagreb:20260926T100000
-SUMMARY:Run - 5K Specific
-DESCRIPTION:If Thursday went well and legs are recovered: 2 km easy + 4 km @ 4:40-4:50/km comfortably hard + 2 km easy. Total ~8 km. If fatigued, keep the entire run easy.
+UID:run-20261010-long@chatgpt
+DTSTAMP:20261002T070000Z
+DTSTART;TZID=Europe/Zagreb:20261010T090000
+DTEND;TZID=Europe/Zagreb:20261010T100000
+SUMMARY:Long Easy Run
+DESCRIPTION:10 km @ 5:45-6:10/km. Keep it genuinely easy.
 END:VEVENT
 
 BEGIN:VEVENT
-UID:run-20260929-easy-strides@running-plan
-DTSTAMP:20260921T100000Z
-DTSTART;TZID=Europe/Zagreb:20260929T180000
-DTEND;TZID=Europe/Zagreb:20260929T184500
-SUMMARY:Run - Easy + Strides
-DESCRIPTION:5 km easy @ ~6:00/km + 4x20 sec strides. Keep it relaxed and finish feeling fresh.
+UID:run-20261013-easy-strides@chatgpt
+DTSTAMP:20261002T070000Z
+DTSTART;TZID=Europe/Zagreb:20261013T180000
+DTEND;TZID=Europe/Zagreb:20261013T184500
+SUMMARY:Easy Run + Strides
+DESCRIPTION:6 km @ 5:50-6:15/km; 4x20 sec strides.
 END:VEVENT
 
 BEGIN:VEVENT
-UID:race-20261001-5k@running-plan
-DTSTAMP:20260921T100000Z
-DTSTART;TZID=Europe/Zagreb:20261001T190000
-DTEND;TZID=Europe/Zagreb:20261001T193000
-SUMMARY:5K Race
-DESCRIPTION:Target ~4:30/km (~22:30). Km 1: 4:30-4:35. Km 2-3: around 4:30/km. Km 4: assess. Km 5: push hard. Do not start faster than target pace.
+UID:run-20261015-intervals@chatgpt
+DTSTAMP:20261002T070000Z
+DTSTART;TZID=Europe/Zagreb:20261015T180000
+DTEND;TZID=Europe/Zagreb:20261015T190000
+SUMMARY:5x1 km Intervals
+DESCRIPTION:2 km easy; 5x1 km @ 4:20-4:25/km; 2 min easy jog between; 1-2 km cooldown.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:run-20261017-long@chatgpt
+DTSTAMP:20261002T070000Z
+DTSTART;TZID=Europe/Zagreb:20261017T090000
+DTEND;TZID=Europe/Zagreb:20261017T100000
+SUMMARY:Long Run
+DESCRIPTION:11 km @ 5:40-6:05/km. Last 2 km may gradually move toward 5:20-5:30/km if feeling good.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:run-20261020-easy@chatgpt
+DTSTAMP:20261002T070000Z
+DTSTART;TZID=Europe/Zagreb:20261020T180000
+DTEND;TZID=Europe/Zagreb:20261020T190000
+SUMMARY:Easy Run
+DESCRIPTION:6-7 km @ 5:50-6:15/km.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:run-20261022-10k-specific@chatgpt
+DTSTAMP:20261002T070000Z
+DTSTART;TZID=Europe/Zagreb:20261022T180000
+DTEND;TZID=Europe/Zagreb:20261022T190000
+SUMMARY:10K Specific - 3x2 km
+DESCRIPTION:2 km easy; 3x2 km @ 4:30-4:35/km; 3 min easy jog between; 1-2 km cooldown. Keep controlled.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:run-20261024-long@chatgpt
+DTSTAMP:20261002T070000Z
+DTSTART;TZID=Europe/Zagreb:20261024T090000
+DTEND;TZID=Europe/Zagreb:20261024T101500
+SUMMARY:Long Easy Run
+DESCRIPTION:12 km @ 5:40-6:05/km.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:run-20261027-easy-strides@chatgpt
+DTSTAMP:20261002T070000Z
+DTSTART;TZID=Europe/Zagreb:20261027T180000
+DTEND;TZID=Europe/Zagreb:20261027T184500
+SUMMARY:Easy Run + Strides
+DESCRIPTION:6 km @ 5:50-6:15/km; 4x20 sec strides.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:run-20261029-mixed@chatgpt
+DTSTAMP:20261002T070000Z
+DTSTART;TZID=Europe/Zagreb:20261029T180000
+DTEND;TZID=Europe/Zagreb:20261029T190000
+SUMMARY:5K/10K Mixed Workout
+DESCRIPTION:2 km easy; 1 km @ 4:20; 2 min easy; 1 km @ 4:25; 2 min easy; 3 km @ 4:30-4:35; 2 min easy; 1 km @ 4:20-4:25; 1-2 km cooldown.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:run-20261031-long@chatgpt
+DTSTAMP:20261002T070000Z
+DTSTART;TZID=Europe/Zagreb:20261031T090000
+DTEND;TZID=Europe/Zagreb:20261031T100000
+SUMMARY:Long Easy Run
+DESCRIPTION:10-12 km @ 5:40-6:05/km. No hard finish.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:run-20261103-easy-strides@chatgpt
+DTSTAMP:20261002T070000Z
+DTSTART;TZID=Europe/Zagreb:20261103T180000
+DTEND;TZID=Europe/Zagreb:20261103T184500
+SUMMARY:Easy Run + Strides
+DESCRIPTION:5-6 km @ 5:50-6:15/km; 4x20 sec strides.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:run-20261105-sharpening@chatgpt
+DTSTAMP:20261002T070000Z
+DTSTART;TZID=Europe/Zagreb:20261105T180000
+DTEND;TZID=Europe/Zagreb:20261105T190000
+SUMMARY:Race Sharpening
+DESCRIPTION:2 km easy; 3x1 km @ 4:20-4:25/km; 2:30-3:00 min easy recovery; 1-2 km cooldown. Controlled, not a race.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:run-20261107-shakeout@chatgpt
+DTSTAMP:20261002T070000Z
+DTSTART;TZID=Europe/Zagreb:20261107T090000
+DTEND;TZID=Europe/Zagreb:20261107T093000
+SUMMARY:Race Shakeout
+DESCRIPTION:3-4 km very easy @ 6:00-6:20/km; 3x15-20 sec relaxed strides. Finish feeling fresh.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:run-20261108-race@chatgpt
+DTSTAMP:20261002T070000Z
+DTSTART;TZID=Europe/Zagreb:20261108T100000
+DTEND;TZID=Europe/Zagreb:20261108T110000
+SUMMARY:10K Race
+DESCRIPTION:Target around 4:30/km. Start km 1-2 at 4:32-4:35; km 3-6 at 4:30-4:32; assess km 7-8; push km 9-10 if feeling good.
 END:VEVENT
 
 END:VCALENDAR
